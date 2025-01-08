@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<PublishSingleFile>true</PublishSingleFile>
+		<!-- Tek dosya oluştur -->
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<!-- 64-bit Windows hedef -->
+		<SelfContained>true</SelfContained>
+		<!-- Tüm bağımlılıkları dahil et -->
+		<EnableCompressionInSingleFile>true</EnableCompressionInSingleFile>
+		<!-- Dosya boyutunu küçült -->
+	</PropertyGroup>
+
+</Project>

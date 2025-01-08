@@ -1,0 +1,7 @@
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\EATaxCalculator.pdb
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\D3DCompiler_47_cor3.dll
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\PenImc_cor3.dll
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\PresentationNative_cor3.dll
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\vcruntime140_cor3.dll
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\wpfgfx_cor3.dll
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\win-x64\app.publish\EATaxCalculator.exe

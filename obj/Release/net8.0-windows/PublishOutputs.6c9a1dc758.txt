@@ -1,0 +1,5 @@
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\app.publish\EATaxCalculator.exe
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\app.publish\EATaxCalculator.dll
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\app.publish\EATaxCalculator.deps.json
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\app.publish\EATaxCalculator.runtimeconfig.json
+C:\Users\yenal\Documents\projects\EATaxCalculator\bin\Release\net8.0-windows\app.publish\EATaxCalculator.pdb
