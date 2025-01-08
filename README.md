@@ -9,10 +9,13 @@ Functions:
   - profit margin
   - net profit.
 
+
 2. If you write Sale Price and Profit Margin, it will calculate
   - Required buy price to get that profit margin.
 
+
 3. If you write Buy Price and Profit Margin, it will calculate;
   - Required sale price to get that profit margin.
+
 
 4. If you write only sale price;\nIt will calculate the %10 lower price for get minimum profit (I just make it like that)
